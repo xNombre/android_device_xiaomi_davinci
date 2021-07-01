@@ -9,3 +9,8 @@ persist.vendor.cp.taper_term_mv=6500
 persist.vendor.qg.cld_coff_gain=1.5
 persist.vendor.qg.coff_gain=1
 persist.vendor.qg.cold_temp=-150
+
+# Alipay
+ro.hardware.fp.fod=true
+persist.vendor.sys.fp.fod.location.X_Y=445,1931
+persist.vendor.sys.fp.fod.size.width_height=190,190
